@@ -31,7 +31,7 @@ A **confusion matrix** is plotted to visualize model performance.
 ## **How to Run the Project**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/breast-cancer-classification.git
+   git clone https://github.com/Omkumar1106/Brest-cancer-ML-model
    cd breast-cancer-classification
    ```
 2. Install dependencies (if not installed):  
@@ -46,8 +46,4 @@ A **confusion matrix** is plotted to visualize model performance.
 - The **RandomForestClassifier** provides robust predictions.  
 
 ## **GitHub Repository Link**  
-🔗 [Your GitHub Repository](https://github.com/your-username/breast-cancer-classification)  
-
----
-
-Replace `your-username` with your actual GitHub username and update the repository link accordingly. Let me know if you need modifications! 🚀
+https://github.com/Omkumar1106/Brest-cancer-ML-model
